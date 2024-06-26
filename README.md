@@ -5,7 +5,7 @@ Installation
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/nassirnasr/Company-Bankruptcy-Prediction-.git
+    git clone https://github.com/nassirnasr/Company-Bankrupt-Prediction-.git
     cd CompanyBankruptcyPrediction
     ```
 
